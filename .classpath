@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="jitsi-utils/src/main/java"/>
-	<classpathentry kind="src" path="jitsi-utils-kotlin/src/main/kotlin"/>
-	<classpathentry kind="src" path="jitsi-utils-kotlin/src/test/kotlin"/>
-	<classpathentry kind="src" path="jitsi-utils/src/test/java"/>
+	<classpathentry kind="src" output="bin" path="jitsi-utils-kotlin/src/main/kotlin"/>
+	<classpathentry kind="src" output="bin" path="jitsi-utils-kotlin/src/test/kotlin"/>
+	<classpathentry kind="src" output="bin" path="jitsi-utils/src/main/java"/>
+	<classpathentry kind="src" output="bin" path="jitsi-utils/src/test/java"/>
 	<classpathentry kind="con" path="org.jetbrains.kotlin.core.KOTLIN_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="output" path="bin"/>
@@ -22,5 +22,5 @@
 	<classpathentry kind="lib" path="lib/kotlin-unsigned-v3.1.3.jar"/>
 	<classpathentry kind="lib" path="lib/kotlintest-runner-junit4-3.4.2.jar"/>
 	<classpathentry kind="lib" path="lib/kotlintest-assertions-3.4.2.jar"/>
-	<classpathentry kind="lib" path="lib/kotlinx-coroutines-core-1.3.2-1.3.60.jar"/>
+	<classpathentry kind="lib" path="lib/kotlinx-coroutines-core-1.3.2-1.3.60.jar"/>	
 </classpath>
