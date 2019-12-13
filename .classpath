@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" output="bin" path="jitsi-utils-kotlin/src/main/kotlin"/>
-	<classpathentry kind="src" output="bin" path="jitsi-utils-kotlin/src/test/kotlin"/>
-	<classpathentry kind="src" output="bin" path="jitsi-utils/src/main/java"/>
-	<classpathentry kind="src" output="bin" path="jitsi-utils/src/test/java"/>
+	<classpathentry kind="src" path="jitsi-utils-kotlin/src/main/kotlin"/>
+	<classpathentry kind="src" path="jitsi-utils-kotlin/src/test/kotlin"/>
+	<classpathentry kind="src" path="jitsi-utils/src/main/java"/>
+	<classpathentry kind="src" path="jitsi-utils/src/test/java"/>
 	<classpathentry kind="con" path="org.jetbrains.kotlin.core.KOTLIN_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="lib" path="lib/json-simple-1.1.1.jar"/>
