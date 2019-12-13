@@ -1,8 +1,7 @@
 /classes/
 /classes-test/
 */target/*
-.classpath
-.project
-.settings/
+/cache/
 *.iml
 .idea/
+/bin/
