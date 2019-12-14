@@ -24,7 +24,7 @@
 		<link>
 			<name>kotlin_bin</name>
 			<type>2</type>
-			<locationURI>PROJECT_LOC/bin</locationURI>
+			<locationURI>org.jetbrains.kotlin.core.filesystem:/jitsi-utils/kotlin_bin</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
